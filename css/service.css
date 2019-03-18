@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+.goods>ul{ height:288px;}
+.goods>ul>li{ width:288px; height:288px;}
+.goods .goods_pic{ height:180px; border-bottom:1px solid #ECECEC;}
+.good_detail .good_info p{ padding-left:0; background:none;}
+.good_detail .good_price{  background:#f9f9f9;}
+.good_detail .left div{ color:#e01222;}
+.good_detail .now span{ color:#e01222;}
+.good_detail .right{ background:none #f0972c; color:#fff6eb; border-radius:4px; line-height:40px;  margin-top:5px; margin-right:10px;}
+
+.category_service>ul{ height:256px;}
+.category_service>ul>li{ width:238px !important; height:256px;}
+.category_service .goods_pic{ height:148px;}
+ 

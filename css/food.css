@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.banner{ width:1200px; margin:auto; overflow:hidden; height:600px;}
+.banner img{ display:block;}
+
+.good_detail .good_info p{ padding-left:0; background:none;}
+.good_detail .good_price{ height:50px; background:#f9f9f9;}
+.good_detail .left div{ color:#e01222;}
+.good_detail .now{ margin-left:5px; font-size:24px;}
+.good_detail .now span{ color:#e01222; font-size:36px;}
+.good_detail .old{ margin-top:2px; margin-left:5px; }
+.good_detail .old span{ line-height:20px;text-decoration:line-through; color:#999;}
+.good_detail .old a{ display:block; color:#fff; line-height:20px; padding:0 5px; border-radius:4px; background:#999;}
+.good_detail .right{ background:none #f0972c; color:#fff6eb; border-radius:4px; line-height:40px;  margin-top:5px; margin-right:10px;}

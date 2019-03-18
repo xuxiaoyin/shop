@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+
+.banner{ height:800px;}
+.banner_buy img{height:800px;}
+.good_detail .good_info p{ padding-left:0; background:none;}
+.good_detail .now em{font-size:12px; color:#E4E4E4; font-style:normal;}
